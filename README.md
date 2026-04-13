@@ -51,7 +51,7 @@ The project is programmed in **MicroPython**, featuring a robust and modular arc
 
 ## 🕹️ Live Simulation
 The circuit has been fully tested and simulated on Wokwi with the updated power and signal routing.
-🔗 [Run CureConnect (Pro) Simulation](https://wokwi.com/projects/your-link-here)
+🔗 [Run CureConnect Simulation](https://wokwi.com/projects/https://wokwi.com/projects/460992929619127297)
 
 ---
 
